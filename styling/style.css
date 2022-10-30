@@ -1,0 +1,34 @@
+*{
+    text-align: center; /* universal selector*/
+    /* background-image: url("./download-1.jpg");
+    background-size: cover;
+    background-attachment: fixed; */
+}
+
+body{
+    border: 2px dotted blue; /* element selector */
+    text-transform: capitalize;
+}
+
+#d1{
+    color: #F0B50B; /*id selector*/
+}
+
+#d2{
+    color: green;
+}
+
+#d3{
+    color: rgb(44, 92, 181);
+}
+
+.h{
+    border: 2px solid red; /*class selector*/
+    text-decoration: wavy;
+    font-variant: small-caps;
+    font-family: cursive;
+}
+
+#d4,#d5{
+    color: brown; /*group selector*/
+}

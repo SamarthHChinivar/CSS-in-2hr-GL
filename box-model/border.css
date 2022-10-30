@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h1{
+    border: 4px dotted blue;
+    padding: 30px;
+    margin: 40px;
+}
+
+h2{
+    border-width: 6px 8px;
+    border-color: blue red;
+    border-style: inset groove outset ridge;
+    border-radius: 16px;
+    margin: 30px;
+}
